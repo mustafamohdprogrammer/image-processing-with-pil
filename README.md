@@ -34,8 +34,8 @@ jupyter notebook Image_Processing_with_PIL.ipynb
 ---
 
 ## 📬 Connect
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: (www.linkedin.com/in/mustafa1622)
+- Email:(mohdmustafa969@gmail.com)
 
 ---
 
